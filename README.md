@@ -1,4 +1,4 @@
-# testappdemo-spring-boot-quickstart-guide
+# test-app-demo-quickstart-guide
 
 This baby project has been developled as a demo test code to implement the Question answer exchange between user and service using Java 1.8, Spring Boot.
 You can extend this simple project to quickly bootstrap your other services and improve it further.
