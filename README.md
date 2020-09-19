@@ -37,9 +37,16 @@ These default values can be changed if required but it would need a fresh build 
 
 ### Application Execution
 
-You can run the application using the windows batch script file "testappdemo.bat" which is located in 'test-app-demo\target'.
-This application runs on default port 8078 but if you want to the service to run on ports other than default port, please
-refer to section "Running Application on custom ports".
+=> You can run the application using the windows batch script file
+   ```
+   "testappdemo.bat" 
+   
+   ```
+   located in 'test-app-demo\target'.
+   
+=> This application runs on default port 8078 but if you want to the service to run on ports other than default port, please
+    refer to section "Running Application on custom ports".
+=> All the services are being served at a single path "/"
 
 ### Running Application on custom ports
 
