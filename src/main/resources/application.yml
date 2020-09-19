@@ -1,0 +1,9 @@
+server:
+  port: 8078
+spring:
+  devtools:
+    restart:
+      enabled: true
+test:
+  number:
+    limit: 50
