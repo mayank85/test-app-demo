@@ -1,0 +1,5 @@
+com\mayank\app\ws\controller\model\request\AnswerdetailsPostRequest.class
+com\mayank\app\ws\controller\model\response\CheckAnswerResponse.class
+com\mayank\app\ws\controller\model\response\ReturnQuery.class
+com\mayank\app\ws\TestAppWsApplication.class
+com\mayank\app\ws\controller\QuestionAnswerController.class
